@@ -1,0 +1,8 @@
+#nom: és el nom idenficatiu de la instància a AWS.
+#instance_type: és el tipus d'instància a AWS.
+#ami_id: és l'ID de la imatge AMI a utilitzar.
+
+
+nom,instance_type,ami_id
+Server-Web,t2.micro,ami-0c230065b91270bc6
+Server-DB,t2.micro,ami-0c230065b91270bc6
